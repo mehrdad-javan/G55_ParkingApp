@@ -1,12 +1,16 @@
 package se.lexicon;
 
+import se.lexicon.dao.impl.CustomerDaoImpl;
 import se.lexicon.model.Customer;
 import se.lexicon.model.ParkingSpot;
 import se.lexicon.model.Reservation;
 
+import java.util.Optional;
+
 public class Main {
     public static void main(String[] args) {
-        Customer customer1 = new Customer(1, "CustomerName1","0123456789", "ABC-123");
+       /*
+       Customer customer1 = new Customer(1, "CustomerName1","0123456789", "ABC-123");
         ParkingSpot spot1 = new ParkingSpot(1, 101);
         ParkingSpot spot2 = new ParkingSpot(3, 101);
         System.out.println("spot1 = " + spot1);
@@ -19,6 +23,8 @@ public class Main {
         System.out.println("---------------------");
         System.out.println("spot1 = " + spot1);
         System.out.println("spot2 = " + spot2);
+
+        */
 
 
     }

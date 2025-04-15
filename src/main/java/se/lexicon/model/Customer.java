@@ -18,6 +18,12 @@ public class Customer {
         setVehiclePlateNumber(vehiclePlateNumber);
     }
 
+    public Customer(String name, String phoneNumber, String vehiclePlateNumber) {
+        setName(name);
+        setPhoneNumber(phoneNumber);
+        setVehiclePlateNumber(vehiclePlateNumber);
+    }
+
     // Methods (getters, setters, toString and...)
     public Integer getId() {
         return id;
