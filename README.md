@@ -43,6 +43,7 @@ adhering to OOP principles.
 
 ### **2. Class Diagram**
 
+![class_diagram.jpeg](img%2Fclass_diagram.jpeg)
 
 - Implement and Complete the entities in Java based on the class diagram.
 - Ensure each class has appropriate attributes and methods to handle its responsibilities.
